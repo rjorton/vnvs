@@ -21,8 +21,8 @@ sampple.sam - is the SAM file of the sample to be analysed
 orf.txt - is a simple one line text file giving the start and end co-ordinates of the ORF to analyse (currently only one ORF at a time - update in progress)
 50 - is a sliding window size to calculate stats across a sliding window of the ORF
 
-A new version will be release soon that:
+A new version will be released soon that:
 
-1) Works on SAM as well as BAM files
-2) Can work on multiple ORFs a the same time (instead of running separately)
+1) Works on SAM as well as BAM files using samtools HTS JDK [https://github.com/samtools/htsjdk](https://github.com/samtools/htsjdk)
+2) Can work on multiple ORFs a the same time (instead of running separately), including overlapping/frameshifts
 3) Includes additional/alternative dN/dS statistics and measures
