@@ -2,8 +2,8 @@
 
 Calculation of dN/dS from viral Next Generation Sequencing (NGS) / High Throughput Sequencing (HTS) data. This program is based on the initial work of Marco Morelli and Dan Haydon for foot-and-mouth disease virus:
 
-**Evolution of foot-and-mouth disease virus intra-sample sequence diversity during serial transmission in bovine hosts**
-Morelli et al
+**Morelli et al (2013). Evolution of foot-and-mouth disease virus intra-sample sequence diversity during serial transmission in bovine hosts**
+
 [https://veterinaryresearch.biomedcentral.com/articles/10.1186/1297-9716-44-12](https://veterinaryresearch.biomedcentral.com/articles/10.1186/1297-9716-44-12)
 
 **A blog of the methodology is presented here:**
